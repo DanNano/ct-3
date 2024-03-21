@@ -1,0 +1,14 @@
+.representative-container {
+    text-align: center;
+    background-color: #ffcccc;
+    color: #000;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.representative-container h1 {
+    font-size: 24px;
+    font-weight: bold;
+}

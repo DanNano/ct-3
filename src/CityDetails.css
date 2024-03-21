@@ -1,0 +1,24 @@
+.city-details-container {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.city-details-container h1,
+.city-details-container p {
+    margin: 0;
+    padding: 10px;
+}
+
+.buttons-container {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    flex-wrap: wrap;
+    margin-top: 20px;
+}
+
+.buttons-container button {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+}

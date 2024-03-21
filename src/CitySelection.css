@@ -1,0 +1,25 @@
+.city-selection-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    border: 2px solid lightcoral;
+    padding: 20px;
+    margin-top: 20px;
+    width: auto;
+}
+
+.city-selection-container h2 {
+    margin: 10px 0;
+    text-align: center;
+}
+
+.city-selection-container select {
+    margin: 10px 0;
+}
+
+.city-selection-container img {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 10px;
+}

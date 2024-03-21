@@ -1,0 +1,14 @@
+.elections-container {
+    text-align: center;
+    background-color: #add8e6;
+    color: #000;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.election-container h1 {
+    font-size: 24px;
+    font-weight: bold;
+}
