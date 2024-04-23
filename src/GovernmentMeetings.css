@@ -1,14 +1,14 @@
 .meeting-container {
-    text-align: center;
-    background-color: #e8f5e9;
-    color: #000;
-    height: 100vh;
-    display: flex;
-    justify-content: center;
-    align-items: center;
+  text-align: center;
+  background-color: hsl(125, 74%, 54%);
+  color: hsl(0, 82%, 51%);
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .meeting-container h1 {
-    font-size: 24px;
-    font-weight: bold;
+  font-size: 24px;
+  font-weight: bold;
 }

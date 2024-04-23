@@ -1,0 +1,483 @@
+{
+  "Alachua": {
+    "ElectedRepresentatives": "https://www.cityofalachua.com/government/city-commission/meet-the-commissioners"
+  },
+
+  "Anna Maria": {
+      "ElectedRepresentatives": "https://www.cityofannamaria.com/government/elected_officials/index.php"
+  },
+
+  "Apalachicola": {
+      "ElectedRepresentatives": "https://www.cityofapalachicola.com/government/city-commission/"
+  },
+
+  "Apopka": {
+      "ElectedRepresentatives": "https://www.apopka.gov/193/City-Council"
+  },
+
+  "Atlantic Beach": {
+      "ElectedRepresentatives": "http://coab.us/135/City-Commission"
+  },
+
+  "Auburndale": {
+      "ElectedRepresentatives": "https://auburndalefl.com/city-commission/"
+  },
+
+  "Aventura": {
+      "ElectedRepresentatives": "https://www.cityofaventura.com/200/City-Commission"
+  },
+
+  "Bal Harbour": {
+      "ElectedRepresentatives": "https://balharbourfl.gov/government/village-mayor-council/"
+  },
+
+  "Bartow": {
+      "ElectedRepresentatives": "https://www.cityofbartow.net/our-government/city-officials-mayor-and-commissioners"
+  },
+
+  "Bay Harbor Islands": {
+      "ElectedRepresentatives": "https://www.bayharborislands-fl.gov/215/Mayor-Council"
+  },
+
+  "Boca Raton": {
+      "ElectedRepresentatives": "https://www.myboca.us/769/City-Council"
+  },
+
+  "Cape Canaveral": {
+      "ElectedRepresentatives": "https://www.cityofcapecanaveral.org/government/your_elected_officials.php"
+  },
+
+  "Cape Coral": {
+      "ElectedRepresentatives": "https://www.capecoral.gov/government/city_government/city_council/index.php"
+  },
+
+  "Chipley": {
+      "ElectedRepresentatives": "https://cityofchipley.com/227/City-Council"
+  },
+
+  "Clearwater": {
+      "ElectedRepresentatives": "https://www.myclearwater.com/My-Government/0-Mayor-and-City-Council"
+  },
+
+  "Clermont": {
+      "ElectedRepresentatives": "https://www.clermontfl.gov/160/City-Council"
+  },
+
+  "Clewiston": {
+      "ElectedRepresentatives": "https://www.clewiston-fl.gov/departments/"
+  },
+
+  "Cocoa": {
+      "ElectedRepresentatives": "https://www.cocoafl.gov/85/City-Council"
+  },
+
+  "Cocoa Beach": {
+      "ElectedRepresentatives": "https://www.cityofcocoabeach.com/555/City-Commission"
+  },
+
+  "Coral Springs": {
+      "ElectedRepresentatives": "https://www.coralsprings.gov/Government/City-Commission"
+  },
+
+  "Dania Beach": {
+      "ElectedRepresentatives": "https://daniabeachfl.gov/2368/City-Commission"
+  },
+
+  "Davie": {
+      "ElectedRepresentatives": "https://www.davie-fl.gov/151/Mayor-Town-Council"
+  },
+
+  "Daytona Beach": {
+      "ElectedRepresentatives": "https://www.codb.us/384/City-Commission"
+  },
+
+  "Deerfield Beach": {
+      "ElectedRepresentatives": "https://www.deerfield-beach.com/1521/City-Commission"
+  },
+
+  "DeFuniak Springs": {
+      "ElectedRepresentatives": "https://www.defuniaksprings.net/319/City-Council"
+  },
+
+  "DeLand": {
+      "ElectedRepresentatives": "https://www.deland.org/333/City-Commission"
+  },
+
+  "Destin": {
+      "ElectedRepresentatives": "https://www.cityofdestin.com/142/Mayor-Council"
+  },
+
+  "Dunedin": {
+      "ElectedRepresentatives": "https://www.dunedingov.com/Your-Government/Mayor-and-Commission"
+  },
+
+  "Edgewater": {
+      "ElectedRepresentatives": "https://www.cityofedgewater.org/administration/page/city-managers-office"
+  },
+
+  "Fort Lauderdale": {
+      "ElectedRepresentatives": "https://www.fortlauderdale.gov/government/city-commission"
+  },
+
+  "Fort Myers": {
+      "ElectedRepresentatives": "https://www.cityftmyers.com/1168/Mayor-City-Council"
+  },
+
+  "Fort Myers Beach": {
+      "ElectedRepresentatives": "https://www.fortmyersbeachfl.gov/68/Mayor-Council"
+  },
+
+  "Fruitland Park": {
+      "ElectedRepresentatives": "https://www.fruitlandpark.org/citymanager"
+  },
+
+  "Gainesville": {
+      "ElectedRepresentatives": "https://www.gainesvillefl.gov/City-Commission"
+  },
+
+  "Green Cove Springs": {
+      "ElectedRepresentatives": "https://www.greencovesprings.com/255/City-Council"
+  },
+
+  "Gulf Breeze": {
+      "ElectedRepresentatives": "https://cityofgulfbreeze.us/mayor-city-council/"
+  },
+
+  "Gulfport": {
+      "ElectedRepresentatives": "https://mygulfport.us/city-council/"
+  },
+
+  "Haines City": {
+      "ElectedRepresentatives": "https://hainescity.com/225/City-Commission"
+  },
+  
+  "Hallandale Beach": {
+      "ElectedRepresentatives": "https://hallandalebeachfl.gov/292/Commission-Members"
+  },
+
+  "Hawthorne": {
+      "ElectedRepresentatives": "https://www.cityofhawthorne.net/mayor-city-commission"
+  },
+
+  "Hialeah": {
+      "ElectedRepresentatives": "https://www.hialeahfl.gov/435/City-Council"
+  },
+
+  "Highland Beach": {
+      "ElectedRepresentatives": "https://highlandbeach.us/183/Our-Commission"
+  },
+
+  "Holly Hill": {
+      "ElectedRepresentatives": "https://www.hollyhillfl.org/bc-cc"
+  },
+
+  "Holmes Beach": {
+      "ElectedRepresentatives": "https://www.holmesbeachfl.org/government/elected_officials/index.php"
+  },
+
+  "Jacksonville": {
+      "ElectedRepresentatives": "https://www.jacksonville.gov/city-council.aspx"
+  },
+
+  "Juno Beach": {
+      "ElectedRepresentatives": "https://www.juno-beach.fl.us/towncouncil"
+  },
+
+  "Jupiter": {
+      "ElectedRepresentatives": "https://www.jupiter.fl.us/243/Town-Council"
+  },
+
+  "Key Biscayne": {
+      "ElectedRepresentatives": "https://keybiscayne.fl.gov/your_government/council/index.php"
+  },
+
+  "Key West": {
+      "ElectedRepresentatives": "https://www.cityofkeywest-fl.gov/379/City-Commissioners"
+  },
+
+  "LaBelle": {
+      "ElectedRepresentatives": "https://citylabelle.com/government/board_of__commissioners.php"
+  },
+
+  "Lady Lake": {
+      "ElectedRepresentatives": "https://www.ladylakefl.gov/309/Town-Commission"
+  },
+
+  "Lake Alfred": {
+      "ElectedRepresentatives": "https://www.mylakealfred.com/204/City-Commission"
+  },
+
+  "Lake Park": {
+      "ElectedRepresentatives": "https://www.lakeparkflorida.gov/government/departments/mayor-commissioners"
+  },
+
+  "Lake Wales": {
+      "ElectedRepresentatives": "https://www.lakewalesfl.gov/217/City-Commission"
+  },
+
+  "Lake Worth": {
+      "ElectedRepresentatives": "https://lakeworthbeachfl.gov/government/city-commission"
+  },
+
+  "Lantana": {
+      "ElectedRepresentatives": "https://www.lantana.org/council-landing-page"
+  },
+
+  "Largo": {
+      "ElectedRepresentatives": "https://www.largo.com/connect/mayor_and_commission/index.php"
+  },
+
+  "Lauderhill": {
+      "ElectedRepresentatives": "https://www.lauderhill-fl.gov/commission"
+  },
+
+  "Lighthouse Point": {
+      "ElectedRepresentatives": "https://www.lighthousepointfl.gov/215/City-Commission"
+  },
+
+  "Longwood": {
+      "ElectedRepresentatives": "https://www.longwoodfl.org/334/City-Commission"
+  },
+
+  "Maitland": {
+      "ElectedRepresentatives": "https://www.itsmymaitland.com/258/City-Council"
+  },
+
+  "Melbourne Beach": {
+      "ElectedRepresentatives": "https://www.melbournebeachfl.org/town-commission"
+  },
+
+  "Miami": {
+      "ElectedRepresentatives": "https://www.miami.gov/My-Government/City-Officials"
+  },
+
+  "Miami Beach": {
+      "ElectedRepresentatives": "https://www.miamibeachfl.gov/city-hall/city-clerk/boards-and-committees/"
+  },
+
+  "Milton": {
+      "ElectedRepresentatives": "https://www.miltonfl.org/188/City-Council"
+  },
+
+  "Minneola": {
+      "ElectedRepresentatives": "https://www.minneola.us/city-council"
+  },
+  
+  "Miramar": {
+      "ElectedRepresentatives": "https://www.miramarfl.gov/261/Office-of-the-Commission"
+  },
+
+  "Mount Dora": {
+      "ElectedRepresentatives": "https://ci.mount-dora.fl.us/110/City-Council"
+  },
+
+  "Naples": {
+      "ElectedRepresentatives": "https://www.naplesgov.com/citycouncil"
+  },
+
+  "Neptune Beach": {
+      "ElectedRepresentatives": "https://www.nbfl.gov/city-council"
+  },
+
+  "New Port Richey": {
+      "ElectedRepresentatives": "https://www.cityofnewportrichey.org/city-departments/city-council/"
+  },
+
+  "New Smyrna Beach": {
+      "ElectedRepresentatives": "https://www.cityofnsb.com/1305/City-Commission"
+  },
+
+  "Niceville": {
+      "ElectedRepresentatives": "https://cityofniceville.org/288/City-Council"
+  },
+
+  "North Miami": {
+      "ElectedRepresentatives": "https://www.northmiamifl.gov/390/Mayor-Council"
+  },
+
+  "Oakland Park": {
+      "ElectedRepresentatives": "https://www.oaklandparkfl.gov/276/City-Commission"
+  },
+
+  "Ocala": {
+      "ElectedRepresentatives": "https://www.ocalafl.gov/government/meet-the-city-council"
+  },
+
+  "Ocean Ridge": {
+      "ElectedRepresentatives": "https://www.oceanridgeflorida.com/government/elected_officials.php"
+  },
+
+  "Ocoee": {
+      "ElectedRepresentatives": "https://www.ocoee.org/125/City-Commission"
+  },
+
+  "Oldsmar": {
+      "ElectedRepresentatives": "https://www.myoldsmar.com/1257/City-Council-Members"
+  },
+
+  "Orlando": {
+      "ElectedRepresentatives": "https://www.orlando.gov/Our-Government/Mayor-City-Council"
+  },
+
+  "Ormond Beach": {
+      "ElectedRepresentatives": "https://www.ormondbeach.org/116/City-Commission"
+  },
+
+  "Palatka": {
+      "ElectedRepresentatives": "https://www.palatka-fl.gov/151/City-Commission"
+  },
+
+  "Palm Bay": {
+      "ElectedRepresentatives": "https://www.palmbayflorida.org/government/city-departments-f-to-z/legislative/mayor-city-council"
+  },
+
+  "Palm Beach": {
+      "ElectedRepresentatives": "https://www.townofpalmbeach.com/384/TownOfficials"
+  },
+
+  "Palm Beach Gardens": {
+      "ElectedRepresentatives": "https://www.pbgfl.com/244/City-Council"
+  },
+
+  "Palm Coast": {
+      "ElectedRepresentatives": "https://www.palmcoast.gov/council"
+  },
+
+  "Palmetto": {
+      "ElectedRepresentatives": "https://www.palmettofl.org/1238/Officials"
+  },
+
+  "Panama City": {
+      "ElectedRepresentatives": "https://www.panamacity.gov/395/City-Commission"
+  },
+
+  "Panama City Beach": {
+      "ElectedRepresentatives": "https://www.pcbfl.gov/government"
+  },
+
+  "Pembroke Pines": {
+      "ElectedRepresentatives": "https://www.ppines.com/156/City-Commission"
+  },
+
+  "Pensacola": {
+      "ElectedRepresentatives": "https://www.cityofpensacola.com/507/Council-Members"
+  },
+
+  "Pinellas Park": {
+      "ElectedRepresentatives": "https://www.pinellas-park.com/415/City-Council"
+  },
+
+  "Plantation": {
+      "ElectedRepresentatives": "https://www.plantation.org/government/city-council"
+  },
+
+  "Pompano Beach": {
+      "ElectedRepresentatives": "https://www.pompanobeachfl.gov/government/city-commission"
+  },
+
+  "Ponce Inlet": {
+      "ElectedRepresentatives": "https://www.ponce-inlet.org/315/Town-Council"
+  },
+
+  "Port Orange": {
+      "ElectedRepresentatives": "https://www.port-orange.org/173/City-Council"
+  },
+
+  "Port St. Lucie": {
+      "ElectedRepresentatives": "https://www.cityofpsl.com/government/mayor-city-council"
+  },
+
+  "Saftey Harbor": {
+      "ElectedRepresentatives": "https://www.cityofsafetyharbor.com/37/City-Commission"
+  },
+
+  "Sanford": {
+      "ElectedRepresentatives": "https://sanfordfl.gov/government/city-commission/"
+  },
+
+  "Sanibel": {
+      "ElectedRepresentatives": "https://www.mysanibel.com/government/city-council"
+  },
+
+  "Satellite Beach": {
+      "ElectedRepresentatives": "https://satellitebeach.gov/government/city_council/index.php"
+  },
+
+  "St. Augustine": {
+      "ElectedRepresentatives": "https://www.citystaug.com/583/Mayor-and-Commissioners"
+  },
+
+  "St. Augustine Beach": {
+      "ElectedRepresentatives": "https://www.staugbch.com/citycommission"
+  },
+
+  "St. Pete Beach": {
+      "ElectedRepresentatives": "https://www.stpetebeach.org/222/City-Commission"
+  },
+
+  "St. Petersberg": {
+      "ElectedRepresentatives": "https://www.stpete.org/government/mayor___city_council/city_council/index.php"
+  },
+
+  "Tallahassee": {
+      "ElectedRepresentatives": "https://www.talgov.com/cityleadership/CityLeadership"
+  },
+
+  "Tamarac": {
+      "ElectedRepresentatives": "https://www.tamarac.org/144/City-Commission"
+  },
+
+  "Tampa": {
+      "ElectedRepresentatives": "https://atg.tampagov.net/sirepub/boardresults.aspx?return=positions|boardinfo&boardid=15"
+  },
+
+  "Tarpon Springs": {
+      "ElectedRepresentatives": "https://www.ctsfl.us/board-of-commissioners/"
+  },
+
+  "Tavares": {
+      "ElectedRepresentatives": "https://www.tavares.org/319/City-Council"
+  },
+
+  "Temple Terrace": {
+      "ElectedRepresentatives": "https://www.templeterrace.gov/108/City-Council-Mayor"
+  },
+
+  "Treasure Island": {
+      "ElectedRepresentatives": "https://www.mytreasureisland.org/residents/city_commission/index.php"
+  },
+
+  "Venice": {
+      "ElectedRepresentatives": "https://www.venicegov.com/government/mayor-city-council"
+  },
+
+  "Wellington": {
+      "ElectedRepresentatives": "https://www.wellingtonfl.gov/320/Village-Council"
+  },
+
+  "West Melbourne": {
+      "ElectedRepresentatives": "https://www.westmelbourne.gov/122/City-Council"
+  },
+
+  "West Palm Beach": {
+      "ElectedRepresentatives": "https://www.wpb.org/government/city-commission"
+  },
+
+  "Weston": {
+      "ElectedRepresentatives": "https://www.westonfl.org/government/city-commission/the-city-commission"
+  },
+
+  "Wilton Manors": {
+      "ElectedRepresentatives": "https://www.wiltonmanors.gov/220/City-Commission"
+  },
+
+  "Winter Haven": {
+      "ElectedRepresentatives": "https://www.mywinterhaven.com/220/City-Commission"
+  },
+
+  "Winter Park": {
+      "ElectedRepresentatives": "https://cityofwinterpark.org/government/city-commission/bios/"
+  }
+
+
+}

@@ -1,0 +1,14 @@
+.news-container {
+    text-align: center;
+    background-color: #ffcccc;
+    color: #000;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.news-container h1 {
+    font-size: 24px;
+    font-weight: bold;
+}

@@ -1,0 +1,484 @@
+{
+    "Alachua": {
+      "LocalNews": "https://www.cityofalachua.com/government/global-pages/news-list/-arch-1"
+       
+    },
+
+    "Anna Maria": {
+        "LocalNews": "https://www.cityofannamaria.com/newslist.php" 
+    },
+
+    "Apalachicola": {
+        "LocalNews": "https://www.cityofapalachicola.com/city-news/"
+    },
+
+    "Apopka": {
+        "LocalNews": "https://www.apopka.gov/CivicAlerts.aspx?CID=1"
+    },
+
+    "Atlantic Beach": {
+        "LocalNews": "http://coab.us/civicalerts.aspx"
+    },
+
+    "Auburndale": {
+        "LocalNews": "https://auburndalefl.com/news/"
+    },
+
+    "Aventura": {
+        "LocalNews": "https://www.cityofaventura.com/CivicAlerts.aspx?CID=1"
+    },
+
+    "Bal Harbour": {
+        "LocalNews": "https://balharbourfl.gov/events/"
+    },
+
+    "Bartow": {
+        "LocalNews": "https://www.cityofbartow.net/about-the-city/news"
+    },
+
+    "Bay Harbor Islands": {
+        "LocalNews": "https://www.bayharborislands-fl.gov/285/NewsWaves"
+    },
+
+    "Boca Raton": {
+        "LocalNews": "https://www.myboca.us/CivicAlerts.aspx?CID=1"
+    },
+
+    "Cape Canaveral": {
+        "LocalNews": "https://www.cityofcapecanaveral.org/newslist.php"
+    },
+
+    "Cape Coral": {
+        "LocalNews": "https://www.capecoral.gov/newslist.php"
+    },
+
+    "Chipley": {
+        "LocalNews": "https://cityofchipley.com/CivicAlerts.aspx?CID=1"
+    },
+
+    "Clearwater": {
+        "LocalNews": "https://www.myclearwater.com/News-Feed"
+    },
+
+    "Clermont": {
+        "LocalNews": "https://www.clermontfl.gov/CivicAlerts.aspx?CID=1"
+    },
+
+    "Clewiston": {
+        "LocalNews": "https://www.clewiston-fl.gov/egov/apps/document/center.egov?view=browse&eGov_searchType=59"
+    },
+
+    "Cocoa": {
+        "LocalNews": "https://www.cocoafl.gov/CivicAlerts.aspx?CID=25"
+    },
+
+    "Cocoa Beach": {
+        "LocalNews": "https://www.cityofcocoabeach.com/CivicAlerts.aspx?CID=1"
+    },
+
+    "Coral Springs": {
+        "LocalNews": "https://www.coralsprings.gov/News-Articles"
+    },
+
+    "Dania Beach": {
+        "LocalNews": "https://daniabeachfl.gov/542/News-and-Announcements"
+    },
+
+    "Davie": {
+        "LocalNews": "https://www.davie-fl.gov/CivicAlerts.aspx?CID=14"
+    },
+
+    "Daytona Beach": {
+        "LocalNews": "https://www.codb.us/CivicAlerts.aspx?CID=10"
+    },
+
+    "Deerfield Beach": {
+        "LocalNews": "https://www.deerfield-beach.com/CivicAlerts.aspx"
+    },
+
+    "DeFuniak Springs": {
+        "LocalNews": "https://www.defuniaksprings.net/CivicAlerts.aspx?CID=15,16,6,11,5,1,7,22,18,12,20,25"
+    },
+
+    "DeLand": {
+        "LocalNews": "https://www.defuniaksprings.net/CivicAlerts.aspx?CID=15,16,6,11,5,1,7,22,18,12,20,25"
+    },
+
+    "Destin": {
+        "LocalNews": "https://www.cityofdestin.com/rss.aspx#rssCivicAlerts"
+    },
+
+    "Dunedin": {
+        "LocalNews": "https://www.dunedingov.com/News-articles"
+    },
+
+    "Edgewater": {
+        "LocalNews": "https://www.cityofedgewater.org/news"
+    },
+
+    "Fort Lauderdale": {
+        "LocalNews": "https://www.fortlauderdale.gov/government/departments-a-h/city-manager-s-office/strategic-communications/city-news"
+    },
+
+    "Fort Myers": {
+        "LocalNews": "https://www.cityftmyers.com/CivicAlerts.aspx?CID=14"
+    },
+
+    "Fort Myers Beach": {
+        "LocalNews": "https://www.cityftmyers.com/CivicAlerts.aspx?CID=14"
+    },
+
+    "Fruitland Park": {
+        "LocalNews": "https://www.fruitlandpark.org/news"
+    },
+
+    "Gainesville": {
+        "LocalNews": "https://www.gainesvillefl.gov/News-articles"
+    },
+
+    "Green Cove Springs": {
+        "LocalNews": "https://www.greencovesprings.com/CivicAlerts.aspx?CID=1"
+    },
+
+    "Gulf Breeze": {
+        "LocalNews": "https://cityofgulfbreeze.us/release/"
+    },
+
+    "Gulfport": {
+        "LocalNews": "https://mygulfport.us/gulfport-news/"
+    },
+
+    "Haines City": {
+        "LocalNews": "https://hainescity.com/CivicAlerts.aspx?CID=1"
+    },
+
+    "Hallandale Beach": {
+        "LocalNews": "https://hallandalebeachfl.gov/civicalerts.aspx"
+    },
+
+    "Hawthorne": {
+        "LocalNews": "https://www.cityofhawthorne.net/news"
+    },
+
+    "Hialeah": {
+        "LocalNews": "https://www.hialeahfl.gov/civicalerts.aspx"
+    },
+
+    "Highland Beach": {
+        "LocalNews": "https://highlandbeach.us/CivicAlerts.aspx?CID=1"
+    },
+
+    "Holly Hill": {
+        "LocalNews": "https://www.hollyhillfl.org/news"
+    },
+
+    "Holmes Beach": {
+        "LocalNews": "https://www.holmesbeachfl.org/newslist.php"
+    },
+
+    "Jacksonville": {
+        "LocalNews": "https://www.jacksonville.gov/all-of-coj/news"
+    },
+
+    "Juno Beach": {
+        "LocalNews": "https://www.juno-beach.fl.us/news"
+    },
+
+    "Jupiter": {
+        "LocalNews": "https://www.jupiter.fl.us/CivicAlerts.aspx?CID=39"
+    },
+
+    "Key Biscayne": {
+        "LocalNews": "https://keybiscayne.fl.gov/newslist.php"
+    },
+
+    "Key West": {
+        "LocalNews": "https://www.cityofkeywest-fl.gov/CivicAlerts.aspx?CID=1"
+    },
+
+    "LaBelle": {
+        "LocalNews": "https://citylabelle.com/newslist.php"
+    },
+
+    "Lady Lake": {
+        "LocalNews": "https://www.ladylakefl.gov/CivicAlerts.aspx?CID=1"
+    },
+
+    "Lake Alfred": {
+        "LocalNews": "https://www.mylakealfred.com/CivicAlerts.aspx?CID=1"
+    },
+
+    "Lake Park": {
+        "LocalNews": "https://www.lakeparkflorida.gov/residents/news-list"
+    },
+
+    "Lake Wales": {
+        "LocalNews": "https://www.lakewalesfl.gov/CivicAlerts.aspx?CID=1"
+    },
+
+    "Lake Worth": {
+        "LocalNews": "https://lakeworthbeachfl.gov/news"
+    },
+
+    "Lantana": {
+        "LocalNews": "https://www.lantana.org/E-Newsletter"
+    },
+
+    "Largo": {
+        "LocalNews": "https://www.largo.com/newslist.php"
+    },
+
+    "Lauderhill": {
+        "LocalNews": "https://www.lauderhill-fl.gov/news-events/news-list"
+    },
+
+    "Lighthouse Point": {
+        "LocalNews": "https://www.lighthousepointfl.gov/CivicAlerts.aspx?CID=1,6"
+    },
+
+    "Longwood": {
+        "LocalNews": "https://www.longwoodfl.org/CivicAlerts.aspx?CID=36"
+    },
+
+    "Maitland": {
+        "LocalNews": "https://www.itsmymaitland.com/CivicAlerts.aspx?CID=12"
+    },
+
+    "Melbourne Beach": {
+        "LocalNews": "https://www.melbournebeachfl.org/node/1/news"
+    },
+
+    "Miami": {
+        "LocalNews": "https://www.miami.gov/Notices/News-Notices"
+    },
+
+    "Miami Beach": {
+        "LocalNews": "https://www.miamibeachfl.gov/spotlight/"
+    },
+
+    "Milton": {
+        "LocalNews": "https://www.miltonfl.org/CivicAlerts.aspx?CID=1"
+    },
+
+    "Minneola": {
+        "LocalNews": "https://www.minneola.us/node/111/news"
+    },
+    
+    "Miramar": {
+        "LocalNews": "https://www.miramarfl.gov/CivicAlerts.aspx?CID=6"
+    },
+
+    "Mount Dora": {
+        "LocalNews": "https://ci.mount-dora.fl.us/CivicAlerts.aspx?CID=1"
+    },
+
+    "Naples": {
+        "LocalNews": "https://www.naplesgov.com/news"
+    },
+
+    "Neptune Beach": {
+        "LocalNews": "https://www.nbfl.gov/node/1/news"
+    },
+
+    "New Port Richey": {
+        "LocalNews": "https://www.cityofnewportrichey.org/community/news-flash/"
+    },
+
+    "New Smyrna Beach": {
+        "LocalNews": "https://www.cityofnsb.com/civicalerts.aspx"
+    },
+
+    "Niceville": {
+        "LocalNews": "https://cityofniceville.org/CivicAlerts.aspx?CID=17"
+    },
+
+    "North Miami": {
+        "LocalNews": "https://www.northmiamifl.gov/CivicAlerts.aspx?CID=5"
+    },
+
+    "Oakland Park": {
+        "LocalNews": "https://www.oaklandparkfl.gov/CivicAlerts.aspx?CID=9"
+    },
+
+    "Ocala": {
+        "LocalNews": "https://www.ocalafl.gov/our-city/advanced-components/news-list"
+    },
+
+    "Ocean Ridge": {
+        "LocalNews": "https://www.oceanridgeflorida.com/newslist.php"
+    },
+
+    "Ocoee": {
+        "LocalNews": "https://www.ocoee.org/CivicAlerts.aspx?CID=14"
+    },
+
+    "Oldsmar": {
+        "LocalNews": "https://www.myoldsmar.com/CivicAlerts.aspx?CID=1"
+    },
+
+    "Orlando": {
+        "LocalNews": "https://www.orlando.gov/News"
+    },
+
+    "Ormond Beach": {
+        "LocalNews": "https://www.ormondbeach.org/CivicAlerts.aspx?CID=1"
+    },
+
+    "Palatka": {
+        "LocalNews": "https://www.palatka-fl.gov/CivicAlerts.aspx?CID=15,7,9,12,6,13,4,14,18,11,1,16,19,5,17,8,10"
+    },
+
+    "Palm Bay": {
+        "LocalNews": "https://www.palmbayflorida.org/our-city/news"
+    },
+
+    "Palm Beach": {
+        "LocalNews": "https://www.townofpalmbeach.com/CivicAlerts.aspx?CID=16,15,11,13,14&sort=date"
+    },
+
+    "Palm Beach Gardens": {
+        "LocalNews": "https://www.pbgfl.com/CivicAlerts.aspx?CID=1"
+    },
+
+    "Palm Coast": {
+        "LocalNews": "https://www.palmcoast.gov/newsroom"
+    },
+
+    "Palmetto": {
+        "LocalNews": "https://www.palmettofl.org/CivicAlerts.aspx?CID=32,31,7,24,30,33"
+    },
+
+    "Panama City": {
+        "LocalNews": "https://www.panamacity.gov/CivicAlerts.aspx?CID=1"
+    },
+
+    "Panama City Beach": {
+        "LocalNews": "https://www.pcbfl.gov/about-us/news-list"
+    },
+
+    "Pembroke Pines": {
+        "LocalNews": "https://www.ppines.com/CivicAlerts.aspx?CID=36"
+    },
+
+    "Pensacola": {
+        "LocalNews": "https://www.cityofpensacola.com/CivicAlerts.aspx?CID=34"
+    },
+
+    "Pinellas Park": {
+        "LocalNews": "https://www.pinellas-park.com/CivicAlerts.aspx?CID=20"
+    },
+
+    "Plantation": {
+        "LocalNews": "https://www.plantation.org/i-want-to/advanced-components/list-detail-pages/news-list"
+    },
+
+    "Pompano Beach": {
+        "LocalNews": "https://www.pompanobeachfl.gov/residents/city-news"
+    },
+
+    "Ponce Inlet": {
+        "LocalNews": "https://www.ponce-inlet.org/CivicAlerts.aspx"
+    },
+
+    "Port Orange": {
+        "LocalNews": "https://www.port-orange.org/CivicAlerts.aspx?CID=1"
+    },
+
+    "Port St. Lucie": {
+        "LocalNews": "https://www.cityofpsl.com/government/departments/communications/news-archives"
+    },
+
+    "Saftey Harbor": {
+        "LocalNews": "https://www.cityofsafetyharbor.com/CivicAlerts.aspx?CID=4"
+    },
+
+    "Sanford": {
+        "LocalNews": "https://sanfordfl.gov/category/community-news/"
+    },
+
+    "Sanibel": {
+        "LocalNews": "https://www.mysanibel.com/news-announcements/news"
+    },
+
+    "Satellite Beach": {
+        "LocalNews": "https://satellitebeach.gov/newslist.php"
+    },
+
+    "St. Augustine": {
+        "LocalNews": "https://www.citystaug.com/CivicAlerts.aspx?CID=1"
+    },
+
+    "St. Augustine Beach": {
+        "LocalNews": "https://www.staugbch.com/events/page/city-newspress-releases"
+    },
+
+    "St. Pete Beach": {
+        "LocalNews": "https://www.stpetebeach.org/civicalerts.aspx"
+    },
+
+    "St. Petersberg": {
+        "LocalNews": "https://www.stpete.org/newslist.php"
+    },
+
+    "Tallahassee": {
+        "LocalNews": "https://www.talgov.com/cotnews/cotnews"
+    },
+
+    "Tamarac": {
+        "LocalNews": "https://www.tamarac.org/CivicAlerts.aspx?CID=13,8"
+    },
+
+    "Tampa": {
+        "LocalNews": "https://www.tampa.gov/news"
+    },
+
+    "Tarpon Springs": {
+        "LocalNews": "https://www.ctsfl.us/"
+    },
+
+    "Tavares": {
+        "LocalNews": "https://www.tavares.org/CivicAlerts.aspx?CID=6"
+    },
+
+    "Temple Terrace": {
+        "LocalNews": "https://www.templeterrace.gov/CivicAlerts.aspx?CID=8"
+    },
+
+    "Treasure Island": {
+        "LocalNews": "https://www.mytreasureisland.org/newslist.php"
+    },
+
+    "Venice": {
+        "LocalNews": "https://www.venicegov.com/i-want-to/advanced-components/list-detail-pages/news-list"
+    },
+
+    "Wellington": {
+        "LocalNews": "https://www.wellingtonfl.gov/CivicAlerts.aspx?CID=5,6,17,7,9"
+    },
+
+    "West Melbourne": {
+        "LocalNews": "https://www.westmelbourne.gov/CivicAlerts.aspx?CID=3,9,8,2,1"
+    },
+
+    "West Palm Beach": {
+        "LocalNews": "https://www.wpb.org/government/communications/city-news"
+    },
+
+    "Weston": {
+        "LocalNews": "https://www.westonfl.org/about/news"
+    },
+
+    "Wilton Manors": {
+        "LocalNews": "https://www.wiltonmanors.gov/547/News"
+    },
+
+    "Winter Haven": {
+        "LocalNews": "https://www.wiltonmanors.gov/547/News"
+    },
+
+    "Winter Park": {
+        "LocalNews": "https://cityofwinterpark.org/news/"
+    }
+
+}
+  
